@@ -21,6 +21,9 @@
   --stroke-default: #d6d3d1;
   --stroke-hightlight: #f3541c;
   --semantic-erro: #dc2626;
+
+  /*APENAS PARA CODAR*/
+  zoom: 70%
 }
 
 body{
